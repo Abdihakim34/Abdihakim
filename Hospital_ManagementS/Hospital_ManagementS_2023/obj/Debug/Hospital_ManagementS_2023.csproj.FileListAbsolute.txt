@@ -1,0 +1,36 @@
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\bin\Debug\Hospital_ManagementS_2023.exe.config
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\bin\Debug\Hospital_ManagementS_2023.exe
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\bin\Debug\Hospital_ManagementS_2023.pdb
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Properties.Resources.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.csproj.GenerateResource.Cache
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.exe
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.pdb
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Enterence.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Home.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Login.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Doctors.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Drugs.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Employees.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.PatientInfo.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Patients.resources
+c:\users\amiin\documents\visual studio 2013\Projects\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Rooms.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\bin\Debug\Hospital_ManagementS_2023.exe.config
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.exe
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.pdb
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\bin\Debug\Hospital_ManagementS_2023.exe
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\bin\Debug\Hospital_ManagementS_2023.pdb
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.csprojResolveAssemblyReference.cache
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Doctors.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Drugs.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Employees.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Enterence.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Home.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Login.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.PatientInfo.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Patients.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Properties.Resources.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.Rooms.resources
+F:\hopital project\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.csproj.GenerateResource.Cache
+D:\Hospital_ManagementS_2023\Hospital_ManagementS_2023\bin\Debug\Hospital_ManagementS_2023.exe.config
+D:\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.exe
+D:\Hospital_ManagementS_2023\Hospital_ManagementS_2023\obj\Debug\Hospital_ManagementS_2023.pdb
